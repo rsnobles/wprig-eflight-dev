@@ -8,7 +8,7 @@
   "dev": {
     "browserSync": {
       "live": true,
-      "proxyURL": "eflight.test",
+      "proxyURL": "wprig.test:8888",
       "bypassPort": "8181",
       "https": true
     },
